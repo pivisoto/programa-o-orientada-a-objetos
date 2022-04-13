@@ -14,3 +14,17 @@ public class Teste {
 
     }
 }
+
+//saida = 0 1 2 3
+
+//se i = 0 
+//print i++ ->(0)
+//print i -> (1)
+
+//se i = 0 
+//print ++i -> (1)
+//print i -> (1)
+
+//se i = 0
+//print i = i + 1 -> (1)
+//print i -> (1)
